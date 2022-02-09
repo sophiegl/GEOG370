@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "lineslayer4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.908494593546109, 36.000809593464695 ], [ -78.908311984994626, 36.001187129650987 ], [ -78.908271405316555, 36.004461769867461 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -78.907611985547391, 36.000292530102818 ], [ -78.905674305918026, 36.003476929966524 ], [ -78.905643871159441, 36.004404321211062 ] ] ] } }
+]
+}
